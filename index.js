@@ -7,4 +7,4 @@ const newHeader = document.createElement('h1')
 newHeader.id ='victory'
 newHeader.innerHTML = 'Kirk Thompson is the champion'
 
-document.body.appendChild(newHeader);
+document.body.appendChild(newHeader)
